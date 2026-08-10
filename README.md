@@ -31,7 +31,7 @@ O projeto percorre o pipeline completo de Machine Learning:
 
 ## Como Executar
 
-1. Abra o notebook `deteccao_fraudes.ipynb)` no Google Colab ou Jupyter Notebook
+1. Abra o notebook `deteccao_fraudes.ipynb` no Google Colab ou Jupyter Notebook
 2. O dataset e carregado automaticamente via URL publica, nao e necessario baixar nada manualmente
 3. Execute as celulas em ordem
 
