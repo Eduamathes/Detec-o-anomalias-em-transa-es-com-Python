@@ -1,7 +1,7 @@
 # Detec-o-anomalias-em-transa-es-com-Python
 Projeto desafio de código DIO - Bradesco para detecção de anomalias em transações bancárias utilizando Python
 
-# Deteccao de FraudPs em Transacoes de Cartao de Credito
+# Deteccao de Fraudes em Transacoes de Cartao de Credito
 
 Projeto de Machine Learning para deteccao de transacoes fraudulentas em cartoes de credito, utilizando o dataset publico de transacoes europeias. O desafio principal e o desbalanceamento extremo dos dados: menos de 0,17% das transacoes sao fraudes.
 
