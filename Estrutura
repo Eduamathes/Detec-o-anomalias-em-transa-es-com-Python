@@ -1,0 +1,8 @@
+
+deteccao-fraudes-cartao-credito/
+|
+|-- README.md
+|-- notebook/
+|   |-- deteccao_fraudes.ipynb
+|-- requirements.txt
+|-- .gitignore
